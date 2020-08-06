@@ -34,16 +34,3 @@ cacheSolve <- function(x, ...) {
         x$setinverse(inverse)
         return(inverse)
 }
-
-## Error in x$getinverse : $ operator is invalid for atomic vectors
-
-
-
-
-
-
-
-
-
-
-
